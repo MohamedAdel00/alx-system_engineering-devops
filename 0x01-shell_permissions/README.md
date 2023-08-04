@@ -1,4 +1,4 @@
-#Here are some instructions to describe what each script does
+# Here are some instructions to describe what each script does
 
 ###File: 0-iam_betty:-
 description:"a script that switches the current user to the user betty."
